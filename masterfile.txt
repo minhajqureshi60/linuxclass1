@@ -1,0 +1,10 @@
+osman devopsenginner
+git clone
+git add .
+git commit -m "comment"
+git push origin
+git status
+git pull
+git branch
+git branch <branchname>
+git checkout <branchname>
